@@ -1,4 +1,4 @@
-### XGallery for Joomla 
+### XGallery for Joomla (Issues Tracker) 
 XGallery is a component for Joomla that allows you to display a gallery on your website. Once installed go to XGallery, click on Parameters and save your configuration.
 
 ##### FEATURES INCLUDE BUT NOT LIMITED TO:
